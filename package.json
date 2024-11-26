@@ -1,0 +1,25 @@
+{
+  "name": "tiny-react-ui",
+  "version": "1.0.0",
+  "description": "Opinionated but flexible ui library for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreamazzilli/tiny-react-ui.git"
+  },
+  "keywords": [
+    "react",
+    "ui",
+    "components",
+    "tiny"
+  ],
+  "author": "Andrea Mazzilli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreamazzilli/tiny-react-ui/issues"
+  },
+  "homepage": "https://github.com/andreamazzilli/tiny-react-ui#readme"
+}
